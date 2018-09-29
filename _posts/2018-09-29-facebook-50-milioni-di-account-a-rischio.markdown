@@ -5,7 +5,7 @@ date:   2018-09-29 19:47:35 +0100
 categories: jekyll update
 ---
 
-![facebook logo](/assets/security.png)
+![facebook logo](/assets/img/security.png)
 
 Con questo articolo proverò a fare un pò di chiarezza sulla notizia delle ultime ore secondo cui Facebook sarebbe stata coinvolta in una nuova vicenda da prima pagina dei più importanti notiziari.
 
@@ -19,7 +19,7 @@ immediate action we’ve taken to protect people’s security.
 Il problema è stato rilevato dal reparto di 'engineering' il pomeriggio dello scorso martedì e sembrerebbe coinvolgere più di 50 milioni di account.
 In base a quanto diffuso nello stesso comunicato, la vulnerabilità sembra essere all'interno del codice della funzione 'Vedi come' la quale permette di avere un' anteprima del proprio profilo cosi come lo vedrebbe uno dei nostri contatti.
 
-![facebook logo](/assets/button.jpg)
+![facebook logo](/assets/img/button.jpg)
 
 
 La vulnerabilità permette di ottenere il token di accesso di un qualsiasi utente. Un possibile hacker potrebbe così facilmente ottenere accesso al vostro account senza la necessità di inserire username e password.
