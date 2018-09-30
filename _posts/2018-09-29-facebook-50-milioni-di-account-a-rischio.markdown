@@ -34,9 +34,9 @@ Pedro Canahuati, vice presidente del reparto di security e privacy, ha svelato a
 
 Sembrerebbe che la vulnerabilità è il risultato dell'interazione di tre bug distinti presenti nelle funzionalità:
 
-Vedi come
-Augura buon compleanno a uno dei tuoi amici
-Modulo per il caricamento di un nuovo video.
+* Vedi come
+* Augura buon compleanno a uno dei tuoi amici
+* Modulo per il caricamento di un nuovo video.
 
 Sostanzialmente la funzionalità: 'Vedi come' è una funzionalità con il solo scopo di mostrare un'anteprima della propria pagina Facebook.
 
