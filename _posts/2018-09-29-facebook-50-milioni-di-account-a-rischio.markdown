@@ -7,7 +7,7 @@ categories: jekyll update
 
 ![facebook logo](/assets/img/security.png)
 
-Con questo articolo proverò a fare un pò di chiarezza sulla notizia delle ultime ore secondo cui Facebook sarebbe stata coinvolta in una nuova vicenda degna della prima pagina dei più importanti notiziari.
+Con questo articolo proverò a fare un po' di chiarezza sulla notizia delle ultime ore secondo cui Facebook sarebbe stata coinvolta in una nuova vicenda degna della prima pagina dei più importanti notiziari.
 
 Mark Zuckerberg (Fondatore e CEO di Facebook), in seguito allo scandalo di Cambridge Analitica che aveva coinvolto Facebook a inizio 2018, si trova nuovamente a difendere la reputazione della sua azienda la quale rischia di subire un nuovo danno di immagine dopo la notizia per la quale un gruppo di specialisti sarebbe riuscito a trovare una grave falla di sicurezza nel software dell'azienda di Menlo Park.
 
